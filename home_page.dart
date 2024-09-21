@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
 
   Future<void> _loadUsername() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    username = prefs.getString('username') ?? 'Guest'; // Set default to "Guest" if username is not found
+    username = prefs.getString('username') ?? 'Guest';
     setState(() {});
   }
 
@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
                 fontSize: 16,
               ),
             ),
-            // Add more content here, such as user-specific recommendations or recent activity
+
           ],
         ),
       ),
