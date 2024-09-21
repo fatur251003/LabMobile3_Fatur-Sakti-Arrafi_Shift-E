@@ -17,8 +17,14 @@ Digunakan untuk menampilkan daftar item secara vertikal.
 Merupakan item dalam sebuah ListView. Biasanya terdiri dari leading, title, dan onTap.
 
 SCREENSHOTS APLIKASI:
+
+Tampilan 1:
 ![alt text](https://github.com/fatur251003/LabMobile3_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/tampilan1.png?raw=true)
+Tampilan 2:
 ![alt text](https://github.com/fatur251003/LabMobile3_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/tampilan2.png?raw=true)
+Tampilan 3:
 ![alt text](https://github.com/fatur251003/LabMobile3_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/tampilan3.png?raw=true)
+Tampilan 4:
 ![alt text](https://github.com/fatur251003/LabMobile3_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/tampilan4.png?raw=true)
+Tampilan 5:
 ![alt text](https://github.com/fatur251003/LabMobile3_Fatur-Sakti-Arrafi_Shift-E/blob/main/images/tampilan5.png?raw=true)
